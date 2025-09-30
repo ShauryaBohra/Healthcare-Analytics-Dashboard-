@@ -16,7 +16,7 @@ Delivered a 40% improvement in financial transparency through clear cost breakdo
 Identified high-cost procedures and departments driving expenses.
 
 Patient & Operational Insights
-Automated reporting for 855 patient visits (161 inpatient & 694 outpatient).
+Automated reporting for 3k+ patient visits (1232 inpatient & 3768 outpatient).
 Interactive filters by city, state, and department for targeted analysis.
 Reduced manual reporting effort by 90% with real-time updates.
 
