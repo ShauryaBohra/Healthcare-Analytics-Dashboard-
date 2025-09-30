@@ -1,4 +1,9 @@
 # Healthcare Analytics Dashboard 
+
+<img width="1336" height="750" alt="image" src="https://github.com/user-attachments/assets/d7d8f70c-5fa1-4f89-8f5e-a1bffb0cbfe3" />
+<img width="1329" height="741" alt="image" src="https://github.com/user-attachments/assets/afd84648-784c-44f6-ac82-0ca46032d376" />
+<img width="1332" height="744" alt="image" src="https://github.com/user-attachments/assets/be706585-9e1f-4ca4-ba4d-b74d3d905eb9" />
+
 This project presents an interactive Healthcare Analytics Dashboard built in Power BI to improve transparency, track costs, and enhance patient satisfaction.
 The dashboard consolidates billing, medication, and insurance data with dynamic filters, providing actionable insights for hospital administrators and executives.
 
